@@ -1,0 +1,3 @@
+otufile	plugins/Evenness/example/asv_abund.transpose.csv
+mapping	plugins/Evenness/example/asv_map.csv
+tree	plugins/Evenness/example/asv_tax.csv

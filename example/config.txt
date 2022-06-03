@@ -1,0 +1,2 @@
+Prefix plugins/Pielou/example
+Plugin Pielou inputfile parameters.txt outputfile pielou.csv
